@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Notla App
 
 You can use the [editor on GitHub](https://github.com/emirkutlugun77/notla/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
